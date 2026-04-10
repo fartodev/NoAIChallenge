@@ -5,6 +5,7 @@
 /[Bb]uilds/
 /[Ll]ogs/
 /[MemoryCaptures]/
+/.vscode/
 *.csproj
 *.sln
 *.userprefs
